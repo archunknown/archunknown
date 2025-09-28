@@ -9,9 +9,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Sobre Mí
 
 Estudiante de Ingeniería de Sistemas, apasionado por la tecnología, el trabajo en equipo y la mejora continua. Me motivan los retos que impulsan el aprendizaje, la innovación y el crecimiento profesional. Busco aportar valor con soluciones creativas y seguir desarrollándome en entornos colaborativos.
-
 <br clear="both"/>
-
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Conecta Conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
