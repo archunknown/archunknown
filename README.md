@@ -13,7 +13,7 @@ Estudiante de Ingeniería de Sistemas, apasionado por la tecnología, el trabajo
 ## 🌐 Conecta Conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/archunknown)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
 
 ## 💻 Stack Tecnológico
@@ -48,17 +48,17 @@ Estudiante de Ingeniería de Sistemas, apasionado por la tecnología, el trabajo
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=archunknown&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=archunknown&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=archunknown&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tu-usuario&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=archunknown&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -67,6 +67,6 @@ Estudiante de Ingeniería de Sistemas, apasionado por la tecnología, el trabajo
   
 **"Cada línea de código es una oportunidad de crear algo increíble"** ✨
 
-![Profile views](https://komarev.com/ghpvc/?username=tu-usuario&label=Visitas&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=archunknown&label=Visitas&color=0e75b6&style=flat)
 
 </div>
