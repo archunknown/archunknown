@@ -6,12 +6,6 @@
 
 </div>
 
-<div align="center">
-  
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-</div>
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Sobre Mí
 
 Estudiante de Ingeniería de Sistemas, apasionado por la tecnología, el trabajo en equipo y la mejora continua. Me motivan los retos que impulsan el aprendizaje, la innovación y el crecimiento profesional. Busco aportar valor con soluciones creativas y seguir desarrollándome en entornos colaborativos.
