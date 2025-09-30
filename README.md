@@ -1,8 +1,8 @@
-# <div align="center">👋 ¡Hola! Soy Adrian T.</div>
+# <div align="center">👋 Hey! I'm Adrian T.</div>
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Desarrollador+Web+en+Formaci%C3%B3n;Apasionado+por+la+Tecnolog%C3%ADa;Flutter+%26+Web+Developer;Siempre+Aprendiendo+%E2%9A%A1)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Systems+Engineering+Student;Web+Developer+in+Training;Passionate+About+Technology;Data+Analytics+%26+Web+Developer;Always+Learning+%E2%9A%A1)
 
 </div>
 
