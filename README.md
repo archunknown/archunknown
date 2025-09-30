@@ -72,6 +72,7 @@ Systems Engineering Student, passionate about technology, teamwork, and continuo
 <div align="center">
 
 **"Every line of code is an opportunity to create something amazing."** ✨
+<br clear="both"/>
 **"Cada línea de código es una oportunidad de crear algo increíble"** ✨
 
 <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100">
