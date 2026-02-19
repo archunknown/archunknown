@@ -1,15 +1,14 @@
 <div align="center">
   <img src="./banner.png" alt="Adrian T. Banner" width="100%" />
-</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1200&color=00D9FF&center=true&vCenter=true&repeat=true&width=600&lines=Systems+Engineering+Student+%F0%9F%8E%93;Full-Stack+Developer+in+the+Making+%F0%9F%94%A8;Data+Analytics+%26+Visualization+%F0%9F%93%8A;Mobile+Dev+%7C+Flutter+%26+Kotlin+%F0%9F%93%B1;Building+Things+That+Matter+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1200&color=00D9FF&center=true&vCenter=true&repeat=true&width=600&lines=Systems+Engineering+Student+%F0%9F%8E%93;Full-Stack+Developer+in+the+Making+%F0%9F%94%A8;Data+Analytics+%26+Visualization+%F0%9F%93%8A;Mobile+Dev+%7C+Flutter+%26+Kotlin+%F0%9F%93%B1;Building+Things+That+Matter+%E2%9A%A1" alt="Typing SVG" />
 
-<br>
+  <br><br>
 
-[![LinkedIn](https://img.shields.io/badge/–_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/adriantasayco/)
-[![Instagram](https://img.shields.io/badge/–_Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/depor.adrian/)
-[![Gmail](https://img.shields.io/badge/–_Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:adriantasayco99@gmail.com)
-![Views](https://komarev.com/ghpvc/?username=archunknown&style=flat-square&color=00D9FF&label=profile+views)
+  [![LinkedIn](https://img.shields.io/badge/–_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/adriantasayco/)
+  [![Instagram](https://img.shields.io/badge/–_Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/depor.adrian/)
+  [![Gmail](https://img.shields.io/badge/–_Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:adriantasayco99@gmail.com)
+  ![Views](https://komarev.com/ghpvc/?username=archunknown&style=flat-square&color=00D9FF&label=profile+views)
 
 </div>
 
