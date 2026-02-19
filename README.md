@@ -1,13 +1,6 @@
 <div align="center">
-
-```
- █████╗ ██████╗ ██████╗ ██╗ █████╗ ███╗   ██╗
-██╔══██╗██╔══██╗██╔══██╗██║██╔══██╗████╗  ██║
-███████║██║  ██║██████╔╝██║███████║██╔██╗ ██║
-██╔══██║██║  ██║██╔══██╗██║██╔══██║██║╚██╗██║
-██║  ██║██████╔╝██║  ██║██║██║  ██║██║ ╚████║
-╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
-```
+  <img src="./banner.png" alt="Adrian T. Banner" width="100%" />
+</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1200&color=00D9FF&center=true&vCenter=true&repeat=true&width=600&lines=Systems+Engineering+Student+%F0%9F%8E%93;Full-Stack+Developer+in+the+Making+%F0%9F%94%A8;Data+Analytics+%26+Visualization+%F0%9F%93%8A;Mobile+Dev+%7C+Flutter+%26+Kotlin+%F0%9F%93%B1;Building+Things+That+Matter+%E2%9A%A1" alt="Typing SVG" />
 
