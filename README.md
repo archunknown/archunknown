@@ -21,8 +21,7 @@ role        : Systems Engineering Student
 location    : 🌎 South America
 focus       : Web · Mobile · Data Analytics
 mindset     : "Ship it. Learn from it. Improve it."
-currently   : Building full-stack systems with Laravel + Vue.js
-open_to     : Collaboration · Internships · Open Source
+open_to     : Collaboration · Open Source
 ```
 
 > *I thrive at the intersection of clean code, smart architecture, and meaningful user experiences.*  
